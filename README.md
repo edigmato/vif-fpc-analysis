@@ -56,9 +56,9 @@ Analizar si existe correlación entre los resultados de los partidos del Fútbol
 
 ## 👤 Autor
 
-**[Tu Nombre]**  
+Edison Aviles 
 Analista de Datos en formación | Barranquilla, Colombia  
-[LinkedIn](#) · [GitHub](#)
+www.linkedin.com/in/edison-rafael-aviles-castillo-322390150 · 
 
 ---
 
